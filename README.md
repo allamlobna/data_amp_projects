@@ -1,2 +1,2 @@
-# data_amp_projects
+# datacamp_projects
 Unguided projects completed through the datacamp platform.
